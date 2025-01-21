@@ -1,5 +1,4 @@
 # Ignore the .htaccess file
 .htaccess
 
-# Ignore the config folder
-application/config/
+
